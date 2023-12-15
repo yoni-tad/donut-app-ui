@@ -6,8 +6,8 @@ This project is a Flutter UI implementation of a Donut App. It showcases a beaut
 
 ## Screenshots
 
-![Home Screen](assets/images/Screenshot_20231214-174541.png)
-![Product Details Screen](assets/images/Screenshot_20231214-174547.png)
+![Home Screen](assets/screenshot/01.png)
+![Product Details Screen](assets/screenshot/02.png)
 
 ## Installation
 
